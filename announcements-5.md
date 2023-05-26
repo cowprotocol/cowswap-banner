@@ -1,1 +1,1 @@
-
+Nice Friday: test notification
