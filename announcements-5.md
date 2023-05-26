@@ -1,1 +1,1 @@
-Welcome, ladies and gentlemen, to the Goerli CoW Swap! Have a great day y'all!
+CoWs and cows unite: Trading 'moo-tual' interests without a beef!
