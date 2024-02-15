@@ -1,1 +1,1 @@
-CoW Protocol is currently under maintenance and will be back soon. We are working tirelessly to get back your favorite trading experience 🐮🙇
+CoW Protocol is gradually coming back online. Trades may take slightly longer to settle as the system stabilizes. The patience of our CoWmunity is appreciated 🐮🙇
