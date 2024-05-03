@@ -4,7 +4,7 @@ This repository contains the text that is shown as an announcement/warning toast
 
 ![image](https://user-images.githubusercontent.com/1200333/236169373-07b08e08-feff-4cd9-bf14-2113770ce146.png)
 
-Announcements are network (Mainnet, Gnosis Chain, Sepolia) and environment (barn, prod) specific:
+Announcements are network (Mainnet, Gnosis Chain, Arbitrum, Sepolia) and environment (barn, prod) specific:
 
 To change the text for all environments (barn & production), edit the file `announcements-{network_id}` in the top level folder and commit your change into the main branch.
 
@@ -17,4 +17,5 @@ Respectively change `/barn/announcements-{network_id}` to only set a text in bar
 
 - 1 = Mainnet
 - 100 = Gnosis Chain
+- 42161 = Arbitrum
 - 11155111 = Sepolia
