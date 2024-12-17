@@ -1,3 +1,8 @@
+# Deprecated
+
+No longer in use for CoW Swap banner announcements.
+Please refer to internal CoW Swap guidelines on how to update it using the CMS.
+
 # CoW Swap Banner
 
 This repository contains the text that is shown as an announcement/warning toast on the CoW Swap UI.
